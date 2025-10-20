@@ -33,4 +33,4 @@ This project is perfect for **Python beginners** who want to build interactive t
 ---
 
 ## 📌 How to Run
-paste and run the code:
+paste and run the code: https://colab.research.google.com/github/tara-hassanzadeh/Simple-Expense-Tracker/blob/main/Simple_Expense%20_Tracker.ipynb
